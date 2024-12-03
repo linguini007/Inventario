@@ -307,7 +307,7 @@ void Inventario::menu() {
 
             case 7:
                 system("cls");
-                guardarEnCSV("C:\\Users\\Sr.SET\\Desktop\\Inventario.csv");
+                guardarEnCSV("________________________RUTA DE GUARDADO__________________________");
                 system("pause");
                 system("cls");
                 break;
